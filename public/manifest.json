@@ -1,0 +1,32 @@
+{
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "kirimWA",
+  "short_name": "kirimWA",
+  "description": "Kirim WA tanpa perlu save nomor",
+  "icons": [
+    {
+      "src": "/icons.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
